@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookdb>
+  <books>
     <booktitle>Kırmızı Saçlı Kadın</booktitle>
     <author>Orhan Pamuk</author>
     <publisher>Yapı Kredi Yayınları</publisher>
@@ -7,8 +8,8 @@
     <dateofpub>2016</dateofpub>
     <price>7.80</price>
     <URL>http://www.idefix.com/kitap/kirmizi-sacli-kadin-orhan-pamuk/tanim.asp?sid=Q08APKKT2S0SGFGBLPD5</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Elveda Güzel Vatanım</booktitle>
     <author>Ahmet Ümit</author>
     <publisher>Everest Yayınları</publisher>
@@ -16,8 +17,8 @@
     <dateofpub>2015</dateofpub>
     <price>13.20</price>
     <URL>http://www.idefix.com/kitap/elveda-guzel-vatanim-ahmet-umit/tanim.asp?sid=QUUH0HO6XG8GC1VUA58H&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Tutsak Güneş</booktitle>
     <author>Ayşe Kulin</author>
     <publisher>Everest Yayınları</publisher>
@@ -25,8 +26,8 @@
     <dateofpub>2015</dateofpub>
     <price>15.84</price>
     <URL>http://www.idefix.com/kitap/tutsak-gunes-ayse-kulin/tanim.asp?sid=JDTJ3YOP8G4G95T9C5P2&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Küçük Prens</booktitle>
     <author>Antoine de Saint-Exupery</author>
     <publisher>Can Çocuk Yayınları</publisher>
@@ -34,8 +35,8 @@
     <dateofpub>2015</dateofpub>
     <price>5.32</price>
     <URL>http://www.idefix.com/kitap/kucuk-prens-antoine-de-saint-exupery/tanim.asp?sid=LRN4I2T3IP2PHZXNXIVE&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Kürk Mantolu Madonna</booktitle>
     <author>Sabahattin Ali</author>
     <publisher>Yapı Kredi Yayınları</publisher>
@@ -43,8 +44,8 @@
     <dateofpub>1998</dateofpub>
     <price>7.15</price>
     <URL>http://www.idefix.com/kitap/kurk-mantolu-madonna-sabahattin-ali/tanim.asp?sid=PFWHROPSSK3OXPUW6J1X&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Fareler ve İnsanlar</booktitle>
     <author>John Steinbeck</author>
     <publisher>Sel Yayıncılık</publisher>
@@ -52,8 +53,8 @@
     <dateofpub>2012</dateofpub>
     <price>7.60</price>
     <URL>http://www.idefix.com/kitap/fareler-ve-insanlar-john-steinbeck/tanim.asp?sid=BUUMIK01H704XP1DF86Z&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Bülbülü Öldürmek</booktitle>
     <author>Harper Lee</author>
     <publisher>Sel Yayıncılık</publisher>
@@ -61,8 +62,8 @@
     <dateofpub>2014</dateofpub>
     <price>15.20</price>
     <URL>http://www.idefix.com/kitap/bulbulu-oldurmek-harper-lee/tanim.asp?sid=EYLJ272XB2YYTA46INKQ&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Altın Gözlük</booktitle>
     <author>Giorgio Bassani</author>
     <publisher>Yapı Kredi Yayınları</publisher>
@@ -70,8 +71,8 @@
     <dateofpub>2016</dateofpub>
     <price>5.20</price>
     <URL>http://www.idefix.com/kitap/altin-gozluk-giorgio-bassani/tanim.asp?sid=U6HO5PXV0G7GHLS3BWW7&cm_vc=idefix.com:ifx_pro2</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Dava</booktitle>
     <author>Dava</author>
     <publisher>Yason Yayıncılık</publisher>
@@ -79,8 +80,8 @@
     <dateofpub>2016</dateofpub>
     <price>6.53</price>
     <URL>http://www.idefix.com/kitap/dava-franz-kafka/tanim.asp?sid=IRFS2GSBC17NB2DO2IK4&cm_vc=idefix.com:ifx_pro2</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Tutunamayanlar</booktitle>
     <author>Oğuz Atay</author>
     <publisher>İletişim Yayıncılık</publisher>
@@ -88,8 +89,8 @@
     <dateofpub>2000</dateofpub>
     <price>28.70</price>
     <URL>http://www.idefix.com/kitap/tutunamayanlar-butun-eserleri-1-oguz-atay/tanim.asp?sid=Y8L3AR75WT6AJHB068L4&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>İçimizdeki Şeytan</booktitle>
     <author>Sabahattin Ali</author>
     <publisher>Yapı Kredi Yayınları</publisher>
@@ -97,8 +98,8 @@
     <dateofpub>1998</dateofpub>
     <price>10.40</price>
     <URL>http://www.idefix.com/kitap/icimizdeki-seytan-sabahattin-ali/tanim.asp?sid=ELGFQWPPSI8IYM7O4XO1&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Eylül</booktitle>
     <author>Mehmet Rauf</author>
     <publisher>Türk Edebiyat Vakfı Yayınları</publisher>
@@ -106,8 +107,8 @@
     <dateofpub>2015</dateofpub>
     <price>11.40</price>
     <URL>http://www.idefix.com/kitap/eylul-mehmet-rauf/tanim.asp?sid=H9BJ2R66D7HQVWOC92C0&cm_vc=idefix.com:ifx_pro2</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Mai ve Siyah</booktitle>
     <author>Halit Ziya Uşaklıgil</author>
     <publisher>Özgür Yayınları</publisher>
@@ -115,8 +116,8 @@
     <dateofpub>2008</dateofpub>
     <price>13.68</price>
     <URL>http://www.idefix.com/kitap/mai-ve-siyah-halit-ziya-usakligil/tanim.asp?sid=V6E1QPWQ3S4S4AXPE4CE&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Aylak Adam</booktitle>
     <author>Yusuf Atılgan</author>
     <publisher>Yapı Kredi Yayınları</publisher>
@@ -124,8 +125,8 @@
     <dateofpub>2007</dateofpub>
     <price>6.50</price>
     <URL>http://www.idefix.com/kitap/aylak-adam-yusuf-atilgan/tanim.asp?sid=UFMQGEH2EA8AXQM8X28G&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Merhume</booktitle>
     <author>Murat Uyurkulak</author>
     <publisher>April Yayıncılık</publisher>
@@ -133,8 +134,8 @@
     <dateofpub>2016</dateofpub>
     <price>14.60</price>
     <URL>http://www.idefix.com/kitap/merhume-murat-uyurkulak/tanim.asp?sid=CY8RYVO4Z2QO91JOSGRN&cm_vc=idefix.com:ifx_pro2</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Seyrek Yağmur</booktitle>
     <author>Barış Bıçakçı</author>
     <publisher>İletişim Yayıncılık</publisher>
@@ -142,8 +143,8 @@
     <dateofpub>2016</dateofpub>
     <price>7.00</price>
     <URL>http://www.idefix.com/kitap/seyrek-yagmur-baris-bicakci/tanim.asp?sid=QB1P5P25RY4YJIAV5HET&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Yalnızlar İçin Çok Özel Bir Hizmet</booktitle>
     <author>Murat Gülsoy</author>
     <publisher>Can Yayınları</publisher>
@@ -151,8 +152,8 @@
     <dateofpub>2015</dateofpub>
     <price>12.92</price>
     <URL>http://www.idefix.com/kitap/yalnizlar-icin-cok-ozel-bir-hizmet-murat-gulsoy/tanim.asp?sid=TT4H2QORZ5X8FNWS2DBS&cm_vc=idefix.com:ifx_prod</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Kendi Seven Ağlamaz</booktitle>
     <author>Tuna Kiremitçi</author>
     <publisher>Destek Yayınları</publisher>
@@ -160,8 +161,8 @@
     <dateofpub>2016</dateofpub>
     <price>9.00</price>
     <URL>http://www.idefix.com/kitap/kendi-seven-aglamaz-tuna-kiremitci/tanim.asp?sid=QJ4K1J61NS3SQZK5GZX3&cm_vc=idefix.com:ifx_pro2</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Sırlı Ölüm</booktitle>
     <author>Zeynep Yiğit</author>
     <publisher>Puslu Yayıncılık</publisher>
@@ -169,8 +170,8 @@
     <dateofpub>2016</dateofpub>
     <price>13.60</price>
     <URL>http://www.idefix.com/kitap/sirli-olum-zeynep-yigit/tanim.asp?sid=P1STTLK0N4MZXQ3QQ6Y2&cm_vc=idefix.com:ifx_pro2</URL>
-</bookdb> 
-<bookdb>
+ </books>
+ <books>
     <booktitle>Serenad</booktitle>
     <author>Zülfü Livaneli</author>
     <publisher>Doğan Kitap</publisher>
@@ -178,4 +179,5 @@
     <dateofpub>2011</dateofpub>
     <price>23.10</price>
     <URL>http://www.idefix.com/kitap/serenad-zulfu-livaneli/tanim.asp?sid=D0N4V5V620ABMNYOZVK9&cm_vc=idefix.com:ifx_prod</URL>
+ </books>
 </bookdb> 
